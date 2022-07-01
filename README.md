@@ -99,8 +99,8 @@ Clone the repo and open it in `IntelliJ IDEA` IDE for complete project backend c
 <!-- CONTACT -->
 ## Contact
 
-- Mohit Jain - mohit20221@iiitd.ac.in
 - Sanyam Goyal - sanyam20116@iiitd.ac.in
+- Mohit Jain - mohit20221@iiitd.ac.in
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
